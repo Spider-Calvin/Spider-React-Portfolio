@@ -13,7 +13,9 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.3.1",
+    "react-icons-tooltip": "^1.0.9",
     "react-scripts": "5.0.1",
+    "react-tooltip": "^4.2.21",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
